@@ -1,7 +1,7 @@
-## This repository will no longer be updated nor maintained and only serves as a landing page for the demo version that referred to this page. For the latest version, check out [Over3dge/overclocked](https://github.com/Over3dge/overclocked) instead.
+## This repository will no longer be updated nor maintained and only serves as a landing page for the demo version that referred to this page. For the latest version, check out the new repository at [Codeberg](https://codeberg.org/3ra/overclocked) instead.
 
 <img
-src="https://github.com/EraOSBeta/bacore9/blob/master/logo.png"
+src="https://github.com/EraOSBeta/overclocked/blob/master/logo.png"
 height="200" alt="logo">
 
 [![CD](https://github.com/Over3dge/overclocked/actions/workflows/cd.yml/badge.svg)](https://github.com/Over3dge/overclocked/actions/workflows/cd.yml)
